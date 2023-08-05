@@ -1,0 +1,2 @@
+[tool.black]
+force-exclude = 'ml_book'
