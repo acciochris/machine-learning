@@ -1,0 +1,18 @@
+# Note: this is a minimal project configuration and solely for use in kaggle kernels
+# Therefore, dependencies are omitted.
+
+[build-system]
+requires = ["flit_core"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "spaceship"
+version = "0.1.0"
+authors = [
+    { name = "Chris Liu", email = "acciochris@outlook.com" },
+]
+readme = "README.md"
+dynamic = ["description"]
+
+[project.urls]
+Source = "https://github.com/acciochris/kaggle"
