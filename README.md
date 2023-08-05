@@ -1,7 +1,7 @@
 # Machine Learning All in One
 
 The code in here are sourced from my several other machine learning repos, both public and private.
-I regularly update this repository (via Github Actions).
+I regularly update this repository.
 
 Repos:
 
