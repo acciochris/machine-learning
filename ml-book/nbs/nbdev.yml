@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ml-book"
+  site-url: "https://acciochris.github.io/ml-book"
+  description: "Personal notes for machine learning book"
+  repo-branch: main
+  repo-url: "https://github.com/acciochris/ml-book"
